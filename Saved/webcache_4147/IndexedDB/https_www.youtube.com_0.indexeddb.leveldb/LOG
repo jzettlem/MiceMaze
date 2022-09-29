@@ -1,0 +1,5 @@
+2022/09/17-23:35:30.465 30f0 Reusing MANIFEST C:/Users/millm/OneDrive/Documents/Unreal Projects/MiceMaze/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/17-23:40:31.251 2184 Level-0 table #5: started
+2022/09/17-23:40:31.387 2184 Level-0 table #5: 6335 bytes OK
+2022/09/17-23:40:31.420 2184 Delete type=0 #3
+2022/09/17-23:40:31.420 2184 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
