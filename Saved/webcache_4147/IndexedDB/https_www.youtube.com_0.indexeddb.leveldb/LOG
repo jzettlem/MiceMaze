@@ -1,5 +1,15 @@
-2022/09/17-23:35:30.465 30f0 Reusing MANIFEST C:/Users/millm/OneDrive/Documents/Unreal Projects/MiceMaze/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/17-23:40:31.251 2184 Level-0 table #5: started
-2022/09/17-23:40:31.387 2184 Level-0 table #5: 6335 bytes OK
-2022/09/17-23:40:31.420 2184 Delete type=0 #3
-2022/09/17-23:40:31.420 2184 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/19-19:22:24.261 151c Reusing MANIFEST C:/Users/millm/OneDrive/Documents/GitHub/MiceMaze/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/19-19:22:24.262 151c Recovering log #4
+2022/10/19-19:22:24.262 151c Reusing old log C:/Users/millm/OneDrive/Documents/GitHub/MiceMaze/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/10/19-19:27:07.228 33d4 Level-0 table #8: started
+2022/10/19-19:27:07.342 33d4 Level-0 table #8: 8099 bytes OK
+2022/10/19-19:27:07.398 33d4 Delete type=0 #4
+2022/10/19-19:27:07.398 33d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/19-19:27:07.414 33d4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0{\xee\xea4xB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 183 : 1
+2022/10/19-19:27:07.430 33d4 Compacting 1@1 + 1@2 files
+2022/10/19-19:27:07.542 33d4 Generated table #9@1: 39 keys, 1077 bytes
+2022/10/19-19:27:07.542 33d4 Compacted 1@1 + 1@2 files => 1077 bytes
+2022/10/19-19:27:07.624 33d4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/19-19:27:07.626 33d4 Delete type=2 #5
+2022/10/19-19:27:07.626 33d4 Delete type=2 #8
+2022/10/19-19:27:07.627 33d4 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0{\xee\xea4xB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 183 : 1 .. (end); will stop at (end)
